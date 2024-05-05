@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Bilel Jabrane",
+    "country": "Tunisia",
+    "profession": "Full Stack Developer ",
+    "gender": "male",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+    "name": "Rayen Mekni",
+    "country": "Tunisia",
+    "profession": "Game Developer",
+    "gender": "male",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Java",
+      "C#"
+    ]
+  },
+  {
+    "name": "Oumayma",
+    "country": "Tunisia",
+    "profession": "Designer",
+    "gender": "female",
+    "skills": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Hama Boumhal",
+    "country": "Boumhal",
+    "profession": "Cyber Security",
+    "gender": "male",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "C#"
+    ]
+  },
+  {
+    "name": "Sarra",
+    "country": "Tunisia",
+    "profession": "SEO Expert",
+    "gender": "female",
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Sana",
+    "country": "INDIA",
+    "profession": "Hacker",
+    "gender": "female",
+    "skills": [
+      "Python"
+    ]
+  }
+]
